@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 21:42:35 2024
-
-@author:  Aleksey Rublev RCBD.org
-"""
-
 from bitrixogram.core import Router, FSMContext, MagicFilter,Message,Command
 from keyboards.barleybreak_keyboard import get_barleybreak_kb
 from typing import List
