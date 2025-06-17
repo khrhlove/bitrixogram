@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 21:43:34 2024
-
-@author:  Aleksey Rublev RCBD.org
-"""
-
 from typing import List
 from bitrixogram.keyboard import ReplyKeyboardMarkup, ReplyKeyboardBuilder
 
