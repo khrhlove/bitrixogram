@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 #endpoints  
 bitrix_bot_endpoint=" https://xxx.xxx.xxx/rest/xx/xxx/" #Webhook for REST API
 ip_whook_endpoint='http://WEBHOOK_IP_ADDRESS:WEBHOOK_PORT/' #External webhook server
