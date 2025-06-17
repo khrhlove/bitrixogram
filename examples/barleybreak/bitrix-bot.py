@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 19 13:58:21 2024
-
-@author: Aleksey Rublev RCBD.org
-"""
-
 import asyncio
 from aiohttp import ClientSession
 import logging
